@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Java Developer** with a keen interest in building scalable, efficient, and clean software solutions. I thrive in solving complex problems and love learning new technologies to stay updated in the tech world. Let's connect and grow together! 💻
+I'm a passionate **python Developer** with a keen interest in building scalable, efficient, and clean software solutions. I thrive in solving complex problems and love learning new technologies to stay updated in the tech world. Let's connect and grow together! 💻
 
 ---
 
@@ -36,6 +36,7 @@ I'm a passionate **Java Developer** with a keen interest in building scalable, e
 ## 🏆 Achievements
 
 - **Certified Java Developer** by XYZ Institution.
+- certified python Developer by naresh it 
 - Successfully developed scalable Java applications for enterprise projects.
 - Actively contributing to open-source projects.
 
