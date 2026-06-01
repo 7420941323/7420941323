@@ -8,7 +8,7 @@ I'm a passionate **python Developer** with a keen interest in building scalable,
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java ☕, JavaScript, SQL
+- **Languages**: python , JavaScript, SQL
 - **Frameworks**: Spring Boot, Hibernate
 - **Tools**: Git 💡, IntelliJ IDEA, Maven
 - **Databases**: MySQL, PostgreSQL
